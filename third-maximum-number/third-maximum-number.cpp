@@ -10,7 +10,6 @@ public:
             if(j==3) break;
             j+=1;
             ans=i;
-            cout<<i<<ans<<"\n";
         }
         if(j!=3) return (-1)*(*s.begin());
         return ans*(-1);
