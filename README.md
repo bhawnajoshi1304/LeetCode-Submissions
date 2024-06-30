@@ -173,3 +173,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Graph
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+<!---LeetCode Topics End-->
