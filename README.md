@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
 |  |
 | ------- |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -302,4 +304,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0891-score-after-flipping-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
