@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1765-merge-in-between-linked-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -414,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Dynamic Programming
