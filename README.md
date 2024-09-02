@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-merge-in-between-linked-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0273-integer-to-english-words](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2573-remove-nodes-from-linked-list](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2573-remove-nodes-from-linked-list](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2846-robot-collisions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
@@ -500,4 +503,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
