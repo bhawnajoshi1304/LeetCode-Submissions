@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1765-merge-in-between-linked-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
