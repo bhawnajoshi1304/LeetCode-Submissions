@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0264-ugly-number-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
