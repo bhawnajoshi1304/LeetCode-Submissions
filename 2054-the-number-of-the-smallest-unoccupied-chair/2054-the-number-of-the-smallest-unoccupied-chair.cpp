@@ -1,9 +1,3 @@
-#include <iostream>
-#include <vector>
-#include <queue>
-#include <algorithm>
-
-using namespace std;
 
 class Solution {
 public:
@@ -48,11 +42,3 @@ public:
         return -1; // Default case (should never reach here)
     }
 };
-
-int main() {
-    Solution sol;
-    vector<vector<int>> times = {{1, 4}, {2, 3}, {4, 6}};
-    int targetFriend = 1;
-    cout << "Chair of target friend: " << sol.smallestChair(times, targetFriend) << endl;
-    return 0;
-}
