@@ -1,29 +1,30 @@
 class Solution {
 public:
     int minGroups(vector<vector<int>>& intervals) {
-        vector<int> start_times, end_times;
-
-        // Extract start and end times
-        for (const auto& interval : intervals) {
-            start_times.push_back(interval[0]);
-            end_times.push_back(interval[1]);
+        // Find the minimum and maximum value in the interval
+        int rangeStart = INT_MAX;
+        int rangeEnd = INT_MIN;
+        for (vector<int> interval : intervals) {
+            rangeStart = min(rangeStart, interval[0]);
+            rangeEnd = max(rangeEnd, interval[1]);
         }
 
-        // Sort start and end times
-        sort(start_times.begin(), start_times.end());
-        sort(end_times.begin(), end_times.end());
-
-        int end_ptr = 0, group_count = 0;
-
-        // Traverse through the start times
-        for (int start : start_times) {
-            if (start > end_times[end_ptr]) {
-                end_ptr++;
-            } else {
-                group_count++;
-            }
+        // Initialize the list with all zeroes
+        vector<int> pointToCount(rangeEnd + 2, 0);
+        for (vector<int> interval : intervals) {
+            pointToCount[interval[0]]++;
+            pointToCount[interval[1] + 1]--;
         }
 
-        return group_count;
+        int concurrentIntervals = 0;
+        int maxConcurrentIntervals = 0;
+        for (int i = rangeStart; i <= rangeEnd; i++) {
+            // Update currently active intervals
+            concurrentIntervals += pointToCount[i];
+            maxConcurrentIntervals =
+                max(maxConcurrentIntervals, concurrentIntervals);
+        }
+
+        return maxConcurrentIntervals;
     }
 };
