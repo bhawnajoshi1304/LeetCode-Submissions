@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0650-2-keys-keyboard) |
@@ -433,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
+| [0539-minimum-time-difference](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
