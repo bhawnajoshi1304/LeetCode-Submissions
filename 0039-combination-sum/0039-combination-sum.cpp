@@ -1,22 +1,25 @@
 class Solution {
 public:
-static void solve(int i, int target, vector<int> &candidates,vector<vector<int>> &ans,vector<int> tmp){
-    if(i>=candidates.size()) return;
-    if(candidates[i]<=target){
-        tmp.push_back(candidates[i]);
-        if(candidates[i] == target){
-            ans.push_back(tmp);
-        }else{
-            solve(i,target-candidates[i],candidates,ans,tmp);
+    vector<vector<int>> ans;
+    vector<int> l;
+    vector<vector<int>> combinationSum(vector<int>& arr, int sum, int i = 0) {
+        if (i >= arr.size()) {
+            long long temp = 0;
+            for (auto x : l)
+                temp += x;
+            if (temp == sum)
+                ans.push_back(l);
+            return ans;
         }
-        tmp.pop_back();
-    }
-    solve(i+1,target,candidates,ans,tmp);
-}
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        vector<int> tmp;
-        solve(0,target,candidates,ans,tmp);
+        long long temp = 0;
+        for (auto i : l)
+            temp += i;
+        if (arr[i] + temp <= sum) {
+            l.push_back(arr[i]);
+            combinationSum(arr, sum, i);
+            l.pop_back();
+        }
+        combinationSum(arr, sum, i+1);
         return ans;
     }
 };
