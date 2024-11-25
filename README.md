@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0859-design-circular-deque](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0921-spiral-matrix-iii) |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
+| [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2035-count-sub-islands) |
