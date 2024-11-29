@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -597,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0891-score-after-flipping-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0891-score-after-flipping-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -669,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2494-sum-of-prefix-scores-of-strings) |
