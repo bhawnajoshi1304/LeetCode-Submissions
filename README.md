@@ -554,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1731-even-odd-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1731-even-odd-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1731-even-odd-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
 | [2035-count-sub-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
