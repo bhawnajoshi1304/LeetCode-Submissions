@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
