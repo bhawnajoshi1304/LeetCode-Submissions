@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -825,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
