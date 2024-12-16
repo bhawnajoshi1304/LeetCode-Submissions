@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0891-score-after-flipping-matrix) |
@@ -758,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0198-house-robber) |
