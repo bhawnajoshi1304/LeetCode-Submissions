@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -779,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
 | [0650-2-keys-keyboard](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0664-strange-printer) |
@@ -902,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
