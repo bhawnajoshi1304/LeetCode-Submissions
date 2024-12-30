@@ -549,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1304-longest-happy-string) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
