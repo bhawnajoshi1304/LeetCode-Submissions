@@ -538,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
@@ -792,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0664-strange-printer) |
 | [0967-minimum-falling-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0967-minimum-falling-path-sum) |
