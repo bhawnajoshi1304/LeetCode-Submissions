@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2035-count-sub-islands) |
 ## Graph
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -729,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -790,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -817,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1731-even-odd-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1731-even-odd-tree) |
