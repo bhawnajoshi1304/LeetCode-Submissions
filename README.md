@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2035-count-sub-islands) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2846-robot-collisions) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2846-robot-collisions) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
