@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
@@ -692,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -837,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
