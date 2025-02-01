@@ -1,30 +1,38 @@
 class Solution {
-    const int MOD = 1000000007;
-
-    int solve(int num, int absentCount, int lateCount, int n, vector<vector<vector<int>>>& dp) {
-        // Base case: if num exceeds n, return 1
-        if (num > n)
-            return 1;
-        // Check if this state has already been computed
-        if (dp[num][absentCount][lateCount] != -1)
-            return dp[num][absentCount][lateCount];
-
-        // Calculate the number of valid sequences by adding an 'A'
-        int absent = absentCount < 1 ? solve(num + 1, absentCount + 1, 0, n, dp) : 0;
-        // Calculate the number of valid sequences by adding an 'L'
-        int late = lateCount < 2 ? solve(num + 1, absentCount, lateCount + 1, n, dp) : 0;
-        // Calculate the number of valid sequences by adding a 'P'
-        int present = solve(num + 1, absentCount, 0, n, dp);
-
-        // Sum the results and apply modulo
-        dp[num][absentCount][lateCount] = ((absent + late) % MOD + present % MOD) % MOD;
-        return dp[num][absentCount][lateCount];
-    }
-
 public:
     int checkRecord(int n) {
-        vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(2, vector<int>(4, -1)));
-        // Start solving from day 1 with 0 absents and 0 lates
-        return solve(1, 0, 0, n, dp);
+        const int MOD = 1000000007;
+        vector<vector<int>> dp_last(2, vector<int>(3, 0)); // previous state
+        vector<vector<int>> dp_current(2, vector<int>(3, 0)); // current state
+
+        dp_last[0][0] = 1; // empty string
+
+        for (int i = 0; i < n; i++) {
+            for (int count_a = 0; count_a < 2; count_a++) {
+                for (int count_l = 0; count_l < 3; count_l++) {
+                    // choose "P"
+                    dp_current[count_a][0] = (dp_current[count_a][0] + dp_last[count_a][count_l]) % MOD;
+                    // choose "A"
+                    if (count_a == 0) {
+                        dp_current[count_a + 1][0] = (dp_current[count_a + 1][0] + dp_last[count_a][count_l]) % MOD;
+                    }
+                    // Choose "L"
+                    if (count_l < 2) {
+                        dp_current[count_a][count_l + 1] = (dp_current[count_a][count_l + 1] + dp_last[count_a][count_l]) % MOD;
+                    }
+                }
+            }
+            dp_last = dp_current; // Reference current to previous
+            dp_current = vector<vector<int>>(2, vector<int>(3, 0)); // make new current
+        }
+
+        // Sum up the counts for all combinations of length 'n' with different count_a and count_l.
+        int res = 0;
+        for (int count_a = 0; count_a < 2; count_a++) {
+            for (int count_l = 0; count_l < 3; count_l++) {
+                res = (res + dp_last[count_a][count_l]) % MOD;
+            }
+        }
+        return res;
     }
 };
