@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -882,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
