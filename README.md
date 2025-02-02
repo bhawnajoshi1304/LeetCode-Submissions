@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
@@ -1038,6 +1039,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0090-subsets-ii) |
