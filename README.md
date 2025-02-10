@@ -549,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-remove-nodes-from-linked-list](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
