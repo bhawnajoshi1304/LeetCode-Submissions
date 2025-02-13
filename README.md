@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1028-interval-list-intersections](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1104-coloring-a-border](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1104-coloring-a-border) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -745,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1104-coloring-a-border](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1104-coloring-a-border) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
@@ -794,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0891-score-after-flipping-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0967-minimum-falling-path-sum) |
+| [1104-coloring-a-border](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1104-coloring-a-border) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -900,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
+| [1104-coloring-a-border](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1104-coloring-a-border) |
 | [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1558-course-schedule-iv) |
