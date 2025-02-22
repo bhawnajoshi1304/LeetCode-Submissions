@@ -636,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
@@ -721,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
@@ -739,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
@@ -764,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-coloring-a-border](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1104-coloring-a-border) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
