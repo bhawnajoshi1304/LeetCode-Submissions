@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2690-house-robber-iv](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3427-special-array-ii) |
