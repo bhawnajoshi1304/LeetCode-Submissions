@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0068-text-justification) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0906-walking-robot-simulation) |
@@ -873,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0079-word-search) |
