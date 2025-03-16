@@ -764,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -786,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -807,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0684-redundant-connection) |
@@ -976,6 +979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
