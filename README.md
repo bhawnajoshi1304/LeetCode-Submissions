@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0264-ugly-number-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0432-all-oone-data-structure) |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -659,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
