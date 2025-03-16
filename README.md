@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1483-rank-teams-by-votes](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1483-rank-teams-by-votes](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1483-rank-teams-by-votes](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -696,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1483-rank-teams-by-votes](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1524-string-matching-in-an-array) |
@@ -961,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
+| [1483-rank-teams-by-votes](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
