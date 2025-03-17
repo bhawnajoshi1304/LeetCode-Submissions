@@ -784,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -808,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -833,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
+| [0543-diameter-of-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
