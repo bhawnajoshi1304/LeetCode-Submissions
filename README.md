@@ -709,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1304-longest-happy-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
