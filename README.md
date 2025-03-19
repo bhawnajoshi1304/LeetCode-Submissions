@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3639-zero-array-transformation-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1177,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Game Theory
 |  |
 | ------- |
