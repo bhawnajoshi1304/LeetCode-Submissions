@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2161-stock-price-fluctuation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -970,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2161-stock-price-fluctuation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
@@ -1149,6 +1151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2161-stock-price-fluctuation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
@@ -1159,6 +1162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2161-stock-price-fluctuation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1227,6 +1231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
+| [2161-stock-price-fluctuation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2161-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
