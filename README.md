@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0820-find-eventual-safe-states) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0494-target-sum) |
@@ -693,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
+| [0399-evaluate-division](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
@@ -848,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
@@ -1018,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1032,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0514-freedom-trail](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0542-01-matrix) |
