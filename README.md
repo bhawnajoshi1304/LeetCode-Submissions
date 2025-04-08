@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3639-zero-array-transformation-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
