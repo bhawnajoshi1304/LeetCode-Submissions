@@ -2,9 +2,9 @@ class Solution {
 public:
     const int MOD = 1e9 + 7;
 
-    int countGoodNumbers(long long chakraLength) {
-        long long even = (chakraLength + 1) / 2;
-        long long odd = chakraLength / 2;
+    int countGoodNumbers(long long digit) {
+        long long even = (digit + 1) / 2;
+        long long odd = digit / 2;
 
         long long evenWays = ways(5, even);
         long long oddWays = ways(4, odd);
