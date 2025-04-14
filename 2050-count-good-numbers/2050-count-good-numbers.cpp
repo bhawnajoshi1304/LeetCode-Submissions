@@ -6,13 +6,13 @@ public:
         long long even = (chakraLength + 1) / 2;
         long long odd = chakraLength / 2;
 
-        long long evenWays = chakraPower(5, even);
-        long long oddWays = chakraPower(4, odd);
+        long long evenWays = ways(5, even);
+        long long oddWays = ways(4, odd);
 
         return (evenWays * oddWays) % MOD;
     }
 
-    long long chakraPower(long long base, long long power) {
+    long long ways(long long base, long long power) {
         long long result = 1;
         base %= MOD;
 
