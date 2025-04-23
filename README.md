@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1483-rank-teams-by-votes](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
+| [1500-count-largest-group](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
+| [1500-count-largest-group](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
