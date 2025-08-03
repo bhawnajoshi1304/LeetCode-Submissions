@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
+| [0741-cherry-pickup](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -994,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
@@ -1181,6 +1183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0664-strange-printer) |
+| [0741-cherry-pickup](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0741-cherry-pickup) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1170-shortest-common-supersequence) |
