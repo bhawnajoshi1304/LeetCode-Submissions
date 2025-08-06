@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0768-partition-labels) |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0778-reorganize-string) |
@@ -618,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0670-maximum-swap) |
@@ -1047,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1084,6 +1089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0948-sort-an-array) |
