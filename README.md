@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -889,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -919,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1069,6 +1073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2280-count-good-triplets-in-an-array) |
