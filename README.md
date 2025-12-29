@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0039-combination-sum) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
