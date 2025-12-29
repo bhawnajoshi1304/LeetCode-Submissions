@@ -999,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0891-score-after-flipping-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0891-score-after-flipping-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1077,6 +1078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0948-sort-an-array) |
