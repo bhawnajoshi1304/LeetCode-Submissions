@@ -787,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0273-integer-to-english-words) |
@@ -964,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0399-evaluate-division](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0399-evaluate-division) |
@@ -1302,6 +1304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
@@ -1384,6 +1387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0212-word-search-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2494-sum-of-prefix-scores-of-strings) |
