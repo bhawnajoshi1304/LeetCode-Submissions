@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0432-all-oone-data-structure) |
@@ -1086,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -1095,6 +1097,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -1124,6 +1127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
