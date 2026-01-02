@@ -528,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
@@ -792,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
