@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1028-interval-list-intersections](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1028-interval-list-intersections) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
