@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0264-ugly-number-ii) |
@@ -806,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -1248,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0213-house-robber-ii) |
@@ -1410,10 +1414,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0212-word-search-ii) |
