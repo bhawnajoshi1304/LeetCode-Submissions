@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1972-rotating-the-box) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2035-count-sub-islands) |
@@ -621,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1302,6 +1304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1755-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2478-longest-nice-subarray) |
