@@ -5,7 +5,7 @@ public:
         if(visited[i]==2) return false;
         visited[i]=1;
         for(auto j:g[i]){
-            if(visited[j]==1 || dfs(g,visited,j)) return true;
+            if(dfs(g,visited,j)) return true;
         }
         visited[i]=2;
         return false;
