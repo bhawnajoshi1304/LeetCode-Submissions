@@ -1,7 +1,7 @@
 class Twitter {
 public:
     unordered_map<int,priority_queue<pair<int,int>>> tweet;
-    unordered_map<int,set<int>> followers;
+    unordered_map<int,unordered_set<int>> followers;
     int time;
     Twitter() {
         time=0;
@@ -27,23 +27,16 @@ public:
         }
         return nf;
     }
-    void get10(priority_queue<pair<int,int>>& pq,priority_queue<pair<int,int>> &t){
+    void get10(priority_queue<pair<int,int>>& pq,priority_queue<pair<int,int>> t){
         int c=0;
-        vector<pair<int,int>> temp;
+        // vector<pair<int,int>> temp;
         while(!t.empty() && c<10){
             pq.push(t.top());
-            temp.push_back(t.top());
+            // temp.push_back(t.top());
             cout<<t.top().first<<" "<<t.top().second<<"\n";
             t.pop();
             c++;
         }
-        while(temp.size()>0){
-            t.push(temp.back());
-            temp.pop_back();
-        }
-        // while(pq.size()>10){
-        //     pq.pop();
-        // }return pq;
     }
     void follow(int followerId, int followeeId) {
         followers[followerId].insert(followeeId);
