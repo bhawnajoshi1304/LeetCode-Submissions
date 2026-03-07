@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0066-plus-one) |
@@ -607,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
