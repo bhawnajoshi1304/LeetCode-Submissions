@@ -1538,4 +1538,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
