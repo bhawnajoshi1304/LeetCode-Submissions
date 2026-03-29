@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
@@ -916,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0726-number-of-atoms](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
@@ -1422,6 +1424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
