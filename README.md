@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1441-build-an-array-with-stack-operations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1483-rank-teams-by-votes](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1483-rank-teams-by-votes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0921-spiral-matrix-iii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
@@ -914,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
