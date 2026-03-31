@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0120-triangle) |
@@ -913,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0636-exclusive-time-of-functions) |
@@ -1424,6 +1426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
