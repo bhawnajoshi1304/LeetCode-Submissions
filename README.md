@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -732,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -812,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0859-design-circular-deque](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -934,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-crawler-log-folder](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
