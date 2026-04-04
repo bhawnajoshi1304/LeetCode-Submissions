@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1484-linked-list-in-binary-tree) |
@@ -1386,6 +1388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1497,6 +1500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0460-lfu-cache) |
 ## Backtracking
 |  |
 | ------- |
