@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -734,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1441-build-an-array-with-stack-operations) |
