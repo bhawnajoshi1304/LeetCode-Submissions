@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1168,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
