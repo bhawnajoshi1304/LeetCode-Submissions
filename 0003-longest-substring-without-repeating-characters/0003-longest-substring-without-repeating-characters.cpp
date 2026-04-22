@@ -7,11 +7,7 @@ public:
             if (m.find(s[i]) == m.end()) {
                 m[s[i]] = i;
             } else {
-                if (curr == -1) {
-                    ans = max(ans, i);
-                } else {
-                    ans = max(ans, i - curr - 1);
-                }
+                ans = max(ans, i - (curr + 1));
                 curr = max(curr, m[s[i]]);
                 ans = max(i - curr, ans);
                 m[s[i]] = i;
