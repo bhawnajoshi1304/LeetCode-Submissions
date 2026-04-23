@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0460-lfu-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1439,6 +1441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
