@@ -39,17 +39,14 @@
 
 class Solution {
 public:
+    struct Compare {
+        bool operator()(ListNode* a, ListNode* b) { return a->val > b->val; }
+    };
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<
-            ListNode*,
-            vector<ListNode*>,
-            function<bool(ListNode*, ListNode*)>
-        > pq([](ListNode* a, ListNode* b) {
-            return a->val > b->val;
-        });
-
+        priority_queue<ListNode*, vector<ListNode*>, Compare> pq;
         for (auto node : lists)
-            if (node) pq.push(node);
+            if (node)
+                pq.push(node);
 
         ListNode dummy;
         ListNode* tail = &dummy;
