@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -1446,6 +1447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0731-my-calendar-ii) |
