@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -717,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
