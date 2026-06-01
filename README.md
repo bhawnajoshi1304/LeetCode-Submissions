@@ -721,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2509-minimize-xor) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2716-prime-subtraction-operation) |
@@ -1114,6 +1115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1371,6 +1373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2554-minimum-total-distance-traveled) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2586-longest-square-streak-in-an-array](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
