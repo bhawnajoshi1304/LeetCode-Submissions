@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1396-count-servers-that-communicate](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -807,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1368,6 +1370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1492,6 +1495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1240-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1632,4 +1636,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/bhawnajoshi1304/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
